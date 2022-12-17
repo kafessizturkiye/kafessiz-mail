@@ -1,2 +1,2 @@
 Kafessiz Mail
-https://kafessiz-mail.herokuapp.com/
+https://onurerenarpaci.github.io/kafessiz-mail/
